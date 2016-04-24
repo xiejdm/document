@@ -40,7 +40,7 @@ Mariadb config
 > **error info:** ImportError: libmysqlclient.so.18: cannot open shared object file: No such file or directory
 
 reslove method
-: ```
+```
 xiejdm@xiejdm:~$ sudo apt-get install libmysqlclient18
 xiejdm@xiejdm:~$ sudo apt autoremove
 ```
@@ -48,7 +48,6 @@ xiejdm@xiejdm:~$ sudo apt autoremove
 	> reference by: [serverfault.com](http://serverfault.com/questions/339334/screwed-libmysqlclient-dev-in-ubuntu)
 	 
 ----------
-
 
 
 
